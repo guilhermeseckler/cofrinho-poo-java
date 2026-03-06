@@ -27,11 +27,20 @@ src/
 
 ## How to Run
 
+Make sure you have the [JDK](https://www.oracle.com/java/technologies/downloads/) installed.
+
 ```bash
-# Compile
+# 1. Clone the repository
+git clone https://github.com/guilhermeseckler/cofrinho-poo-java.git
+cd cofrinho-poo-java
+
+# 2. Create the output folder
+mkdir out
+
+# 3. Compile
 javac src/*.java -d out/
 
-# Run
+# 4. Run
 java -cp out/ Principal
 ```
 
