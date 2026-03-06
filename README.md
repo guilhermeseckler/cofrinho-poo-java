@@ -1,4 +1,4 @@
-# Cofrinho 🪙
+# Cofrinho (piggy bank)
 
 A console-based piggy bank application built with Java, developed to practice Object-Oriented Programming concepts.
 
